@@ -1,0 +1,1 @@
+[{'matrix': 0, 'posBombs': 0, 'moves': 0, 'qtdMoves': 0, 'matrixRows': 0, 'matrixCols': 0, 'without': '-1'}]
